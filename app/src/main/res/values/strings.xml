@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ObtenerViews</string>
+    <string name="escribe_aqui">Escribe aqui</string>
+    <string name="pulsar">PULSAR</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
